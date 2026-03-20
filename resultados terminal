@@ -1,0 +1,73 @@
+=== EXECUÇÃO PARALELA (1 processos) ===
+Arquivos processados: 1000
+Tempo total: 85.8524 segundos
+
+=== RESULTADO CONSOLIDADO ===
+Total de linhas: 10000000
+Total de palavras: 200000000
+Total de caracteres: 1366663305
+
+Contagem de palavras-chave:
+  erro: 33332083
+  warning: 33330520
+  info: 33329065
+
+
+=== EXECUÇÃO PARALELA (2 processos) ===
+Arquivos processados: 1000
+Tempo total: 47.2071 segundos
+
+=== RESULTADO CONSOLIDADO ===
+Total de linhas: 10000000
+Total de palavras: 200000000
+Total de caracteres: 1366663305
+
+Contagem de palavras-chave:
+  erro: 33332083
+  warning: 33330520
+  info: 33329065
+
+
+=== EXECUÇÃO PARALELA (4 processos) ===
+Arquivos processados: 1000
+Tempo total: 27.5248 segundos
+
+=== RESULTADO CONSOLIDADO ===
+Total de linhas: 10000000
+Total de palavras: 200000000
+Total de caracteres: 1366663305
+
+Contagem de palavras-chave:
+  erro: 33332083
+  warning: 33330520
+  info: 33329065
+
+
+=== EXECUÇÃO PARALELA (8 processos) ===
+Arquivos processados: 1000
+Tempo total: 17.1923 segundos
+
+=== RESULTADO CONSOLIDADO ===
+Total de linhas: 10000000
+Total de palavras: 200000000
+Total de caracteres: 1366663305
+
+Contagem de palavras-chave:
+  erro: 33332083
+  warning: 33330520
+  info: 33329065
+
+
+=== EXECUÇÃO PARALELA (12 processos) ===
+Arquivos processados: 1000
+Tempo total: 15.7192 segundos
+
+=== RESULTADO CONSOLIDADO ===
+Total de linhas: 10000000
+Total de palavras: 200000000
+Total de caracteres: 1366663305
+
+Contagem de palavras-chave:
+  erro: 33332083
+  warning: 33330520
+  info: 33329065
