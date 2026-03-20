@@ -110,7 +110,9 @@ Onde:
 
 ## 7. Gráfico de Tempo de Execução
 
-> *(Inserir gráfico)*
+
+<img width="538" height="325" alt="tempoExecução" src="https://github.com/user-attachments/assets/dd3a637a-fc19-4580-95fb-a4d102ec579f" />
+
 
 - **Eixo X:** número de processos
 - **Eixo Y:** tempo de execução (segundos)
@@ -119,7 +121,7 @@ Onde:
 
 ## 8. Gráfico de Speedup
 
-> *(Inserir gráfico)*
+<img width="535" height="329" alt="speedUpThreads" src="https://github.com/user-attachments/assets/6393da8c-3fbb-41d5-a859-9f99e3fad437" />
 
 - **Eixo X:** número de processos
 - **Eixo Y:** speedup
@@ -129,7 +131,9 @@ Onde:
 
 ## 9. Gráfico de Eficiência
 
-> *(Inserir gráfico)*
+
+<img width="570" height="359" alt="eficienciaVersusThreads" src="https://github.com/user-attachments/assets/c27ca9d4-238b-4c97-bd36-30f8ae527499" />
+
 
 - **Eixo X:** número de processos
 - **Eixo Y:** eficiência (valores entre 0 e 1)
